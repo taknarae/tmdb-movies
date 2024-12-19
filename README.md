@@ -1,10 +1,10 @@
-# .env(환경변수) 저장하기
+## .env(환경변수) 저장하기
 1. 최상위 폴더에 .env 위치
 2. REACT_APP_API_KEY="API_KEY"
 3. .jsx 파일에 const APIKEY = process.env.REACT_APP_API_KEY; 적용
 **주의사항 : .env 파일 "API_KEY" 끝에 (;) 금지**
 
-## .gitignore 파일에 .env 추가
+### .gitignore 파일에 .env 추가
 
 ### Git 배포하기
 1. package.json 파일에 "homepage" 추가하기
