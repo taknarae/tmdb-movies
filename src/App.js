@@ -17,7 +17,7 @@ import SearchDetail from "./pages/SearchDetail.jsx";
 
 import BtnPageTop from "./components/BtnPageTop.jsx";
 
-import UserDetail from "./components/UserDetail.jsx";
+import UserDetail from "./components/UserDetail.jsx"; 
 
 
 function App() {
