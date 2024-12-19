@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/taknarae/tmdb-movies/static/css/main.fb4c5ca9.css",
-    "main.js": "/taknarae/tmdb-movies/static/js/main.dc613bd9.js",
-    "index.html": "/taknarae/tmdb-movies/index.html",
-    "main.fb4c5ca9.css.map": "/taknarae/tmdb-movies/static/css/main.fb4c5ca9.css.map",
-    "main.dc613bd9.js.map": "/taknarae/tmdb-movies/static/js/main.dc613bd9.js.map"
+    "main.css": "/tmdb-movies/static/css/main.fb4c5ca9.css",
+    "main.js": "/tmdb-movies/static/js/main.dd9ed3af.js",
+    "index.html": "/tmdb-movies/index.html",
+    "main.fb4c5ca9.css.map": "/tmdb-movies/static/css/main.fb4c5ca9.css.map",
+    "main.dd9ed3af.js.map": "/tmdb-movies/static/js/main.dd9ed3af.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4c5ca9.css",
-    "static/js/main.dc613bd9.js"
+    "static/js/main.dd9ed3af.js"
   ]
 }
