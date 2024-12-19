@@ -3,7 +3,11 @@ import React from 'react';
 const Event = () => {
   return (
     <>
-      Event Page
+      <div className="p-event">
+        <div className="layout-fix">
+          Event Page
+        </div>
+      </div>
     </>
   );
 };
