@@ -1,0 +1,13 @@
+/* * { padding:0; margin:0; font-weight:inherit; color:inherit; box-sizing:border-box; }
+body { min-width:1280px; font-size:15px; font-weight:400; }
+ul,li { list-style:none; }
+a { color:#222; text-decoration:none; } */
+
+/* .layout-fix { width:1280px; padding:0 20px; margin:0 auto; } */
+/* header { padding:18px 0; background-color:#fff; border-bottom:1px solid #eee; }
+header .layout-fix { display:flex; align-items:center; justify-content:space-between; }
+header h1 { width:32px; height:32px; display:inline-block; }
+header h1 a { width:32px; height:32px; display:block; }
+header h1 svg { width:100%; }
+header .gnb li { margin-left:32px; display:inline-block; }
+header .gnb li a:hover { text-decoration:underline; } */
